@@ -1,5 +1,5 @@
 ---
-name: ai-handoff
+name: desktop-visual-pilot-wb-db
 description: 复杂分析交给 WorkBuddy(hy4flash)、图片交给豆包的交接编排；含交接卡生成、结果回流归档、桌面验收委托。当任务涉及多表对账/大文件通读/方案取舍/长代码审查，或需要生成图片时使用。
 ---
 
